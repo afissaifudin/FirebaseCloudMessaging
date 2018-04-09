@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300149442630",
+    "firebase_url": "https://fir-cloudmessaging-bd16f.firebaseio.com",
+    "project_id": "fir-cloudmessaging-bd16f",
+    "storage_bucket": "fir-cloudmessaging-bd16f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300149442630:android:ee0fcff9d788cd8c",
+        "android_client_info": {
+          "package_name": "com.work.afis.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300149442630-j137ek218r55su6aj815g0h19gn6hlcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work.afis.firebasecloudmessaging",
+            "certificate_hash": "82e5d810d00a99be3070d879a69fca6b6bbbf734"
+          }
+        },
+        {
+          "client_id": "300149442630-qb9fkabna7cc6t57fec9e97ul0dtfbk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhtR6w51YGaxb97yEAX15PfJFK1W33Uv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300149442630-qb9fkabna7cc6t57fec9e97ul0dtfbk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
